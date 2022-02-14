@@ -39,7 +39,7 @@
     "illuminate/pagination": "~8.0|^9.0",
     "illuminate/console": "~8.0|^9.0",
     "illuminate/filesystem": "~8.0|^9.0",
-    "prettus/laravel-validation": "dev-master",
+    "nguyenvantruc92/laravel-validation": "dev-master",
     "illuminate/validation": "~8.0|^9.0"
   },
   "autoload": {

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2eb1459081aa698103927bcac1949de7",
+    "content-hash": "5ce93ea721dc543f27054900e2f073c2",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -1167,17 +1167,17 @@
             "time": "2022-01-21T17:08:38+00:00"
         },
         {
-            "name": "prettus/laravel-validation",
+            "name": "nguyenvantruc92/laravel-validation",
             "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nguyenvantruc92/laravel-validator.git",
-                "reference": "252187dfd10b257361e533d5f76ef82c1d6be1bb"
+                "reference": "417896fdb929e86f01429755845d4b800f018075"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nguyenvantruc92/laravel-validator/zipball/252187dfd10b257361e533d5f76ef82c1d6be1bb",
-                "reference": "252187dfd10b257361e533d5f76ef82c1d6be1bb",
+                "url": "https://api.github.com/repos/nguyenvantruc92/laravel-validator/zipball/417896fdb929e86f01429755845d4b800f018075",
+                "reference": "417896fdb929e86f01429755845d4b800f018075",
                 "shasum": ""
             },
             "require": {
@@ -1214,7 +1214,7 @@
                 "source": "https://github.com/andersao/laravel-validation",
                 "docs": "http://andersao.github.io/laravel-validation"
             },
-            "time": "2022-02-14T03:33:42+00:00"
+            "time": "2022-02-14T06:43:25+00:00"
         },
         {
             "name": "psr/container",
@@ -3282,7 +3282,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "prettus/laravel-validation": 20
+        "nguyenvantruc92/laravel-validation": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
